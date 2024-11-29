@@ -4,7 +4,8 @@ This repository contains the differences between different communication protoco
 ##  Compared Specifications
 - Power Consumption
 - Area Consumption
-- Bandwidth	Frequency
+- Bandwidth
+- Frequency
 - Error Correction
 - Number of Pins
 - Pin Count
